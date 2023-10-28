@@ -11,3 +11,5 @@ Using the Neighborhood Processing with a 3 x 3 kernel
 ### Then simulate the IP Packages
 
 #### Simulation on Xilinx Vivado
+
+**Inspired from @vipinkmenon/SpatialFilter**
